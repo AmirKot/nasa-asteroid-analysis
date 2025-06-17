@@ -1,0 +1,14 @@
+# macOS system files
+.DS_Store
+__MACOSX/
+
+# Python
+*.pyc
+__pycache__/
+
+# IDE/project files
+.idea/
+*.iml
+
+# CSV files - optional if they are not too large
+# nasa.csv
