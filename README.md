@@ -66,6 +66,7 @@ nasa_asteroid_ds.py     # Main project script
 nasa.csv                # Asteroid dataset
 plots/                  # Output visualizations
 README.md               # Project documentation
+.gitignore              # Files/folders to exclude from Git tracking
 ```
 
 ---
@@ -89,3 +90,19 @@ README.md               # Project documentation
 
 > Programming and Data Analysis in Python – 20606  
 > The Open University of Israel (2024B Semester)
+
+--
+
+## 🛠 Skills Used
+- Python (pandas, matplotlib, seaborn)
+- Data cleaning & preprocessing
+- Data visualization
+- Real-world dataset analysis
+
+## 📚 What I Learned
+This project helped me improve my data exploration and visualization skills using real-world data, and deepened my understanding of how to draw insights from raw datasets.
+
+---
+
+📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/amir-kot-0a7598369/)
+
